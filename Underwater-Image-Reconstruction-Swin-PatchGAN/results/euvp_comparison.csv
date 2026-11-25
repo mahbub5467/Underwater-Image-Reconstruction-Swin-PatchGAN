@@ -1,0 +1,7 @@
+Method,PSNR_dB,SSIM,UIQM
+Input,16.45,0.72,2.89
+Histogram Equalization,17.23,0.74,3.12
+UDCP,18.76,0.79,3.45
+WaterGAN,21.34,0.83,3.78
+UIE-DAL,23.15,0.86,3.92
+Swin-PatchGAN (Proposed),24.76,0.89,4.18

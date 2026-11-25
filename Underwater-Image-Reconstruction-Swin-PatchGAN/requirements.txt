@@ -1,0 +1,9 @@
+# Starter environment only. Exact package versions were not specified in the paper.
+torch
+torchvision
+numpy
+Pillow
+opencv-python
+scikit-image
+tqdm
+matplotlib

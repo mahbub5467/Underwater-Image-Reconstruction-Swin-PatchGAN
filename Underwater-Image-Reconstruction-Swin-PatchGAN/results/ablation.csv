@@ -1,0 +1,5 @@
+Configuration,PSNR_dB,SSIM,UIQM
+Baseline U-Net,22.45,0.84,3.87
+U-Net + Attention,23.12,0.86,3.94
+U-Net + PatchGAN,23.38,0.87,3.96
+Swin-UNet + PatchGAN,24.76,0.89,4.18

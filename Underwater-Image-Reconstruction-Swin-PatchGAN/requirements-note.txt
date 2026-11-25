@@ -1,0 +1,1 @@
+The paper specifies PyTorch but does not report exact dependency versions. `requirements.txt` is therefore a starter dependency list, not a verified reproduction environment. Pin versions only after testing the actual implementation.
